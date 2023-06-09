@@ -1,7 +1,7 @@
 package javaquestionsbasics;
 import java.util.*;
 
-public class javaBasicQuestions {
+public class primeORnot {
 
 	public static void main(String[] args) {
 		Scanner scn =new Scanner(System.in);
