@@ -16,6 +16,7 @@ public class LtoHprimeNum {
 			for(int div =2; div*div<=n; div++ ) {
 				if(n%div==0) {
 					count++;
+					break;
 				}
 			 			}
 			//try to divide n and increase count
